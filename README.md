@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=emore23" alt="estefanimore" /></p>
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou a Estefani.</h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, sou a Estefani.</h1>
 <p align = "justify">Front-end Developer, viciada em estudar, gosto de pedalar e tomar chimarrão.
 Tenho mais de três anos de experiência no setor de desenvolvimento web.</p>
 
