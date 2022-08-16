@@ -24,3 +24,6 @@ Tenho mais de três anos de experiência no setor de desenvolvimento web.</p>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&layout=compact)
