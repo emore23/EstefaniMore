@@ -26,4 +26,5 @@ Tenho mais de três anos de experiência no setor de desenvolvimento web.</p>
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
+## ⚡ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&layout=compact)
