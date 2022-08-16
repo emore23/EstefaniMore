@@ -27,4 +27,4 @@ Tenho mais de três anos de experiência no setor de desenvolvimento web.</p>
 
 
 ## ⚡ GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emore23&hide=TeX&theme=radical)
